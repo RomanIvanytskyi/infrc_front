@@ -1,0 +1,24 @@
+.admintext{
+    color: antiquewhite;
+}
+
+.NavLinks{
+    color: antiquewhite;
+    transition: color 0.5s;
+    
+}
+.NavLinks:hover {
+    color: rgb(85, 34, 180);
+}
+
+.formEl {
+    display: inline;
+}
+
+.searchIcon {
+    display: inline;
+}
+
+.search {
+    padding: 15px;
+}
